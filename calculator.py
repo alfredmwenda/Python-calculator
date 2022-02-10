@@ -48,6 +48,4 @@ def main():
     print(math.tan(x))       
 
 main()
-#import math
-#c=4
-#print(math.sqrt(c))
+
